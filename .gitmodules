@@ -1,0 +1,3 @@
+[submodule "Ctrl-V"]
+	path = Ctrl-V
+	url = git@github.com:oooolga/Ctrl-V.git
